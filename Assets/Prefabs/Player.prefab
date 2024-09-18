@@ -2775,7 +2775,7 @@ MonoBehaviour:
   sensitivity: 0.005
   maxOffset: 1
   rotationAngle: 30
-  rotationSpeed: 10
+  rotationSpeed: 20
 --- !u!136 &1685397907943301042
 CapsuleCollider:
   m_ObjectHideFlags: 0

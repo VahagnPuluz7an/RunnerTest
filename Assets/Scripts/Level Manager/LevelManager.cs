@@ -42,6 +42,8 @@ namespace ButchersGames
 
         public void Init()
         {
+            Application.targetFrameRate = 60;
+            
 #if !UNITY_EDITOR
             editorMode = false;
 #endif
